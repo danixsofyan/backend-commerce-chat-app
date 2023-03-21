@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\TransacrionItem;
 use Illuminate\Http\Request;
 
-class TransacrionItemController extends Controller
+class TransactionItemController extends Controller
 {
     /**
      * Display a listing of the resource.

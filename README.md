@@ -37,3 +37,7 @@ npm install && npm run dev
 php artisan migrate
 php artisan serve
 ```
+
+### Documentation API collection
+
+https://documenter.getpostman.com/view/26471399/2s93K1qfGv
